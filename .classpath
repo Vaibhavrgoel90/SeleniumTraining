@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_144"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-examples-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-excelant-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-ooxml-schemas-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/poi-3.16/poi-scratchpad-3.16.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/selenium-server-standalone-3.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Selenium,Java/Jars/testng-6.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
