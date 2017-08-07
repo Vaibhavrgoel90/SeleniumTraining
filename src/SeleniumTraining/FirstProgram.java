@@ -22,6 +22,7 @@ public class FirstProgram {
 	// Printing Title & Title length in the Console window
 	System.out.println("Title of the page is : " + title);
 	System.out.println("Length of the title is : "+ titleLength);
+	System.out.println("Lead Pagal h");
 
 	// Storing URL in String variable
 	String actualUrl = driver.getCurrentUrl();
